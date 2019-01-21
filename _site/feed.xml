@@ -1,37 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arbosteun</title>
-    <description>Arbosteun levert adviesdiensten op het gebied van arbeidsomstandigheden binnen bedrijven door heel Europa. Deze adviesdiensten variëren van ergonomische adviezen ter voorkoming van lichamelijke klachten, tot het uitvoeren van Risico Inventarisaties en -Evaluaties. Door Arbosteun klein te houden is de aanpak persoonlijker en kunnen we zodoende meer maatwerk leveren. Dit brengt onze dienstverlening naar een hoger niveau. Wij komen graag bij u langs om vrijblijvend kennis te maken!</description>
-    <link>https://arbosteun.github.io/arbosteun//</link>
-    <atom:link href="https://arbosteun.github.io/arbosteun//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 29 Oct 2016 22:45:01 +0200</pubDate>
-    <lastBuildDate>Sat, 29 Oct 2016 22:45:01 +0200</lastBuildDate>
+    <title>Jinghui Zhao</title>
+    <description>I do data science</description>
+    <link>https://jinghuizhao.github.io</link>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
-        <title>ECN</title>
+        <title>Twitter Sentiment Analysis</title>
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
-        <link>https://arbosteun.github.io/arbosteun//consultancy/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://arbosteun.github.io/arbosteun//consultancy/2014/07/18/project-1/</guid>
+        <link>https://github.com/JinghuiZhao/Twitter-Sentiment-Analysis</link>
+        <guid isPermaLink="true">https://github.com/JinghuiZhao/Twitter-Sentiment-Analysis</guid>
         
         
-        <category>Consultancy</category>
+        <category>Projects</category>
         
       </item>
     
       <item>
-        <title>NRG</title>
+        <title>Canada Bankcruptcy Prediction</title>
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0200</pubDate>
-        <link>https://arbosteun.github.io/arbosteun//consultancy/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">https://arbosteun.github.io/arbosteun//consultancy/2014/07/17/project-2/</guid>
+        <link></link>
+        <guid isPermaLink="true"></guid>
         
         
-        <category>Consultancy</category>
+        <category>Projects</category>
         
       </item>
     
@@ -49,7 +46,7 @@
       </item>
     
       <item>
-        <title>Europese Commissie</title>
+        <title>hahaha</title>
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
