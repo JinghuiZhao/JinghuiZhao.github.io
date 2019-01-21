@@ -1,0 +1,23 @@
+url: https://jinghuizhao.github.io
+#baseurl: /arbosteun/
+
+# Site settings
+title: Jinghui Zhao
+email: jzhao54@usfca.edu
+description: "I do data science"
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: http://linkedin/ilyaslingerland
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Simon Gammerkade 1,
+  - line: 1544 VL, Zaandijk
+  - line: Nederland
+
+# Build settings
+markdown: kramdown
+permalink: pretty

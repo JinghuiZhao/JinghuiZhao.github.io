@@ -1,0 +1,15 @@
+---
+title: AGC
+subtitle: Consultancy
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: agc.png
+thumbnail: agc-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: AGC
+category: Consultancy
+description: AGC.
+
+---
