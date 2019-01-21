@@ -10,13 +10,13 @@ description: "I do data science"
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: http://linkedin/ilyaslingerland
-
+    url: 
+  - title: github
+    url: 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Simon Gammerkade 1,
-  - line: 1544 VL, Zaandijk
-  - line: Nederland
+  - line: 155 Jackson Street
+  - line: San Francisco, 94111
 
 # Build settings
 markdown: kramdown
